@@ -58,6 +58,7 @@ function mouseClicked() {
   } else {
     createFinalImage2();
   }
+  return false;
 }
 
 function createFinalImage2() {
